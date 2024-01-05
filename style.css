@@ -266,15 +266,14 @@ section{
 }
 
 /* About Section */
-#about
-{
+#about{
     position: relative;
 }
 
 .about-containers{
     gap:2rem;
     margin-bottom: 2rem;
-    margin-top: 2rem;
+    margin-top:2rem;
 }
 
 .about-details-container
@@ -288,21 +287,20 @@ section{
     display: flex;
 }
 
-.about-pic
-{
+.about-pic{
     border-radius: 2rem;
 }
 
 .arrow
 {
     position: absolute;
-    right:-5rem;
-    bottom:2.5rem;
+    right: -5rem;
+    bottom: 2.5rem;
 }
 
 .details-container{
-    padding:1.5rem;
-    flex:1;
+    padding: 1.5rem;
+    flex: 1;
     background: white;
     border-radius: 2rem;
     border:rgb(53, 53, 53) 0.1rem solid;
@@ -313,13 +311,13 @@ section{
 .section-containter
 {
     gap: 4rem;
-    height:80%;
+    height: 80%;
 }
 
 .selection__pic-container
 {
-    height:400px;
-    width:400px;
-    margin:auto;
+    height: 400px;
+    width: 400px;
+    margin: auto;
 
 }
