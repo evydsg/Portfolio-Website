@@ -154,7 +154,7 @@ section{
     min-height: fit-content;
 }
 
-.section-containter
+.section-container
 {
     display: flex;
 }
@@ -314,7 +314,7 @@ section{
     height: 80%;
 }
 
-.selection__pic-container
+.section__pic-container
 {
     height: 400px;
     width: 400px;
