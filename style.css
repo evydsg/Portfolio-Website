@@ -20,7 +20,7 @@ html {
 }
 
 p {
-    color: whitesmoke;
+    color: grey;
 }
 
 a, .btn {
@@ -52,7 +52,7 @@ a:hover {
     color: grey;
     text-decoration: underline;
     text-underline-offset: 1rem;
-    text-decoration-color: rgb(240, 240, 240);
+    text-decoration-color: whitesmoke;
 }
 
 .logo {
@@ -277,8 +277,13 @@ article .icon {
 }
 
 .project-btn {
-    color: white;
+    color: black;
+    background-color: white;
     border-color: white;
+}
+.project-btn:hover {
+    background-color: black;     /* Set hover background color to black */
+    color: white;                /* Set hover text color to white */
 }
 
 #contact {
