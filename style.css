@@ -148,6 +148,7 @@ section {
     font-weight: 600;
     padding: 1rem;
     width: 8rem;
+    color: black;
     border-radius: 2rem;
     background-color: white;
     border: white 0.1rem solid;
@@ -276,8 +277,7 @@ article .icon {
 }
 
 .project-btn {
-    color: black;
-    background-color: white;
+    color: black; /* Changed from white */
     border-color: white;
 }
 .project-btn:hover {
