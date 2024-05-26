@@ -1,5 +1,7 @@
 /* General */
 
+/* General */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
 * {
@@ -147,7 +149,8 @@ section {
     padding: 1rem;
     width: 8rem;
     border-radius: 2rem;
-    color: white;
+    background-color: white;
+    color: black;
     border: white 0.1rem solid;
 }
 
@@ -156,12 +159,12 @@ section {
 }
 
 .btn-color-1:hover, .btn-color-2:hover {
-    background: white;
-    color: black;
+    background: black;
+    color: white;
 }
 
 .btn-color-2:hover {
-    background: none;
+    background: black;
     color: white;
 }
 
