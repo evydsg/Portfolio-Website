@@ -105,6 +105,10 @@ section {
     width: 400px;
     margin: auto 0;
 }
+#profile-pic
+{
+    margin-right: 20px;
+}
 
 .section__text {
     align-self: center;
@@ -257,7 +261,9 @@ article .icon {
 }
 
 #projects {
+    margin-top: 50px ;
     position: relative;
+    margin-bottom: 100px;
 }
 
 .color-container {
@@ -290,6 +296,7 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
+    margin-top: 100px;
 }
 
 .contact-info-upper-container {
